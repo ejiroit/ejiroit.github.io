@@ -1,0 +1,17 @@
+
+.header-wrap
+.nav-wrap
+.slideshow-wrap
+.body-wrap{float:left;width:100%;clear:both;}
+.subfooter-wrap
+.footer-wrap{float:left;width:100%;clear:both}
+
+.header
+
+.nav
+.slideshow
+.body{width:960px;margin:0 auto;}
+.subfooter
+.footer{width:960px;margin:0 auto;background-color:aqua;}
+
+

@@ -1,0 +1,18 @@
+name = slideshow_garland
+description = My subtheme of Garland
+core = 7.x
+base theme = garland
+
+;stylesheets[all][] = style.css
+
+
+regions[header]         = Header
+regions[highlighted]    = Highlighted
+regions[header_content] = Header Content
+regions[content]        = Content
+regions[page_bottom]    = Page Bottom 
+regions[sidebar_first]  = Sidebar First
+regions[sidebar_second] = Sidebar Second
+regions[help]           = Help
+regions[subfooter]      = Subfooter
+regions[footer]         = Footer

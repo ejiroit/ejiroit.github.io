@@ -1,0 +1,4 @@
+name = Current Posts
+description = This module displays links to current posts
+core = 7.x
+package = My Modules
